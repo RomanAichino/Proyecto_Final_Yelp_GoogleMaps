@@ -39,6 +39,6 @@ para folder google maps:
 
 # De esta manera estableceos la conexión entre nuestro google drive y GCS.
 
-
+Autor: Max J.
 
 
