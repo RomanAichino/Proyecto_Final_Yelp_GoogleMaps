@@ -39,6 +39,6 @@ para folder google maps:
 
 # De esta manera estableceos la conexión entre nuestro google drive y GCS.
 
-Nota: Google Drive, Google Colab and project owner en GCP deben estar bajo el mismo usuario(xxx@gmail.com)
+
 
 
