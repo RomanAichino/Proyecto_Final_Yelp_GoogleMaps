@@ -1,1 +1,12 @@
-# Proyecto_Final_Yelp_GoogleMaps
+Proyecto Final 
+Tematica: Google Maps & Yelp
+Grupo 7
+
+Integrantes:
+Roman Aichino
+Max Jeffer
+Eduardo
+Diego
+(luego se completara todo bien)
+
+
