@@ -1,6 +1,6 @@
 <h1 align="center"> Proyecto grupal: Reviews de Google Maps y Yelp </h1>
 <p align="center">
-   <img width="700" height="400" src="8_ imagenes/google maps y yelp logo.png">
+   <img width="700" height="400" src="8_ Imagenes/google maps y yelp logo.png">
    </p>
    
 
