@@ -11,10 +11,10 @@
 | Miembro del equipo | GitHub |Pais
 |:-----------:|:-----------:|:-----------:|
 
-| Aichino Roman          |  [@RomanAichino](https://github.com/RomanAichino)         |<img width="30" height="20" src="img/icono-plano-del-cuadrado-vector-de-la-bandera-argentina-102753340.png">
-| Diego | [@Diego]   |   <img width="30" height="20" src="img/icono-plano-del-cuadrado-vector-de-la-bandera-argentina-102753340.png">
-| Jeffer Max        |[@M21x1](https://github.com/M21x1)           |	<img width="30" height="20" src="img/Peru_bandera.png">
-| Eduardo  | [@Eduardo]   |   <img width="30" height="20" src="img/Peru_bandera.png">
+| Aichino Roman          |  [@RomanAichino](https://github.com/RomanAichino)         |<img width="30" height="20" src="8_ Imagenes/icono-plano-del-cuadrado-vector-de-la-bandera-argentina-102753340.png">
+| Diego | [@Diego]   |   <img width="30" height="20" src="8_ Imagenes/bandera_chile.png">
+| Jeffer Max        |[@M21x1](https://github.com/M21x1)           |	<img width="30" height="20" src="8_ Imagenes/Peru_bandera.png">
+| Eduardo  | [@Eduardo]   |   <img width="30" height="20" src="8_ Imagenes/Peru_bandera.png">
 
 </div>
 
