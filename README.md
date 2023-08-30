@@ -1,6 +1,6 @@
 <h1 align="center"> Proyecto grupal: Reviews de Google Maps y Yelp </h1>
 <p align="center">
-   <img width="700" height="400" src="8_ Imagenes/google maps y yelp logo.png">
+   <img width="700" height="400 src="8_ Imagenes/google maps y yelp logo editado.png">
    </p>
    
 
@@ -18,22 +18,7 @@
 
 </div>
 
-Proyecto Final 
 
-Tematica: Google Maps & Yelp
 
-Grupo 7
-
-Integrantes:
-
-Roman Aichino
-
-Max Jeffer
-
-Eduardo
-
-Diego
-
-(luego se completara todo bien)
 
 
