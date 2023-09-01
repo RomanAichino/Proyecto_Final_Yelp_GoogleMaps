@@ -8,5 +8,5 @@ El modelo final nos sirve para ordenar la extracción de información correspond
 Asimismo dentro del proceso de ETL generamos un modelo de datos para el datawarehouse, eliminando columnas, transformándolas, calculando nuevas columnas, etc. Las relaciones de las tablas de este modelo son las que rigen para la tarea de carga de datos al datawarehouse.
 
 TABLAS GOOGLE MAPS
-![Google_1]("8_Imagenes/google_1.png)
+![Google_1]("8_Imagenes/modelo_google_1.png)
 
