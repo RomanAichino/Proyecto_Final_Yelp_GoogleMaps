@@ -2,13 +2,13 @@
 
 ## Roles en Scrum
 
-### Product Owner: Por Definir
+### Product Owner: 
 
 - Responsable de definir y priorizar el Product Backlog.
 - Asegura que el equipo trabaje en las tareas más valiosas para el cliente.
 - Colabora con interesados y el equipo para mantener la visión clara del producto.
 
-### Scrum Master: Por Definir
+### Scrum Master: 
 
 - Facilitadora del proceso Scrum.
 - Garantiza que el equipo siga las prácticas y principios de Scrum.
