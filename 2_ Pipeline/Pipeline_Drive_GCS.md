@@ -1,4 +1,4 @@
-# PIPELINE: From Google Drive to Google Cloud Storage
+# PIPELINE: From Google Drive to Google Cloud Storage - CARGA INICIAL
 (Primera solución)
 
 # PRIMER PASO: 
