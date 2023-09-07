@@ -1,16 +1,16 @@
 # CARGA INICIAL: From Google Drive to Google Cloud Storage 
 (Primera solución)
 
-# PRIMER PASO: 
+## Primer paso: 
 Copiar los datos (archivos y carpetas) del Google Drive compartido por cliente al Google Drive del proyecto.
 
-# SEGUNDO PASO: 
+## Segundo paso: 
 Montar en Google Colab el Google Drive del proyecto.
 
     from google.colab import drive
     drive.mount('/content/drive')
 
-# TERCER PASO:
+## Tercer paso:
 Autenticar usuario.
 
     from google.colab import auth
@@ -22,7 +22,7 @@ Usamos codigos de gsutil tool para enlazar el usuario autenticado y el proyecto 
     !gcloud config set project {project_id}
     !gsutil ls
 
-# CUARTO PASO: 
+## Cuarto paso: 
 Copiamos las carpetas deseadas de Google Drive a Google Cloud Storage usando como puente Google Colab.
 
 Para folder yelp:
@@ -37,8 +37,8 @@ para folder google maps:
       
     !gsutil -m cp -r /content/drive/My\ Drive/google_maps/* gs://{bucket_name}/
 
-# De esta manera estableceos la conexión entre nuestro google drive y GCS.
+## De esta manera establecemos la conexión entre nuestro google drive y GCS para realizar la carga inicial.
 
-# Autor: Max J.
+## Autor: Max J.
 
 
