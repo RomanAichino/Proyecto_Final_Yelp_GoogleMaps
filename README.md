@@ -48,12 +48,12 @@
 
    <p>
       <h2>Contenido de cada carpeta del Repositorio</h2>
-   1_Documentación: aquí encontraremos toda la información relacionada a la documentación del proyecto(general, diccionario de datos, registro diario).
-   2_Pipeline: aquí están subidos todas las funciónes que fueron implementadas en Cloud Functions para los ETLs, API y Carga incremental.
-   3_ETL: Los ETLs realizados en Google Colab.
-   4_EDA: Los EDAs realizados en Google Colab.
-   5_ML: aquí encontraremos todo lo relacionado con el modelo de Machine Learning.
-   6_Data Analytics: aquí encontraremos la parte analítica, KPIs, Dashboard, etc.
-   7_Streamlit: lo relacionado a la plataforma donde se presentara el modelo de ML.
-   8_Imagenes: estan simplemente las imagenes que se utilizan en el repositorio.
+   1_Documentación: aquí encontraremos toda la información relacionada a la documentación del proyecto(general, diccionario de datos, registro diario).<br>
+   2_Pipeline: aquí están subidos todas las funciónes que fueron implementadas en Cloud Functions para los ETLs, API y Carga incremental.<br>
+   3_ETL: Los ETLs realizados en Google Colab.<br>
+   4_EDA: Los EDAs realizados en Google Colab.<br>
+   5_ML: aquí encontraremos todo lo relacionado con el modelo de Machine Learning.<br>
+   6_Data Analytics: aquí encontraremos la parte analítica, KPIs, Dashboard, etc.<br>
+   7_Streamlit: lo relacionado a la plataforma donde se presentara el modelo de ML.<br>
+   8_Imagenes: estan simplemente las imagenes que se utilizan en el repositorio.<br>
    </p>
