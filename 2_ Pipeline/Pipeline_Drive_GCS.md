@@ -1,5 +1,4 @@
-# CARGA INICIAL: From Google Drive to Google Cloud Storage 
-(Primera solución)
+<h1 align="center">CARGA INICIAL: From Google Drive to Google Cloud Storage </h1>
 
 ## Primer paso: 
 Copiar los datos (archivos y carpetas) del Google Drive compartido por cliente al Google Drive del proyecto.
