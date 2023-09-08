@@ -326,7 +326,7 @@ def etl_yelp_review(df_review, df_business):
         print("La tabla fact_yelp_review ya existe. Se insertarán los nuevos datos. Detalles del error:", str(e))
         df.to_gbq(destination_table='finalprojectprototype-397114.yelp.fact_yelp_review', project_id='finalprojectprototype-397114', if_exists='append')
 
-
+#---------------------------------------------------------llamamos a las funciones---------------------------------------------------------------------------------------------
 etl_google_review(archivo_fecha_hoy('google/Google_review'))
 etl_google_business(archivo_fecha_hoy('google/Google_business'))
 
