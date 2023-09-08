@@ -16,13 +16,15 @@ Viernes: Demo 1.
 
 Semana 2
 
-Lunes:
+Sabado y domingo: Nos pusimos de acuerdo en cuanto a nuestro objetivo especifico, cliente y producto final. Además, buscamos una API para nuestra carga incremental.
 
-Martes:
+Lunes: Empezamos la carga incremental y la automatización de los ETLs.
 
-Miercoles:
+Martes: Continuammos con la carga incremental y la automatización de los ETLs.
 
-Jueves:
+Miercoles: Continuamos con la automatización de los ETLs y finalizamos la carga incremental. Además, empezamos a pensar el modelo de Machine Learning y a reorganizar la documentación.
+
+Jueves: Terminamos la automatización de los ETLs, hicimos un video para demostrar que la carga incremental funciona y otro para los ETLs automatizados. También hicimos un nuevo digrama de Gantt, diagrama ER, ordenamos el repositorio y preparamos la presentación.
 
 Viernes: Demo 2.
 
