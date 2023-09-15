@@ -1,4 +1,4 @@
-<h1 align="center"> Proyecto grupal: Reviews de Google Maps y Yelp </h1>
+<h1 align="center"> Reviews de Google Maps y Yelp : Restaurants </h1>
 <p align="center">
    <img width="700" height="400" src="8_ Imagenes/google maps y yelp logo editado.png">
    </p>
@@ -22,7 +22,11 @@
 <p>
    <br>
 </p>
-<h3 align="center"> Nosotros somos DREM Data Insigths, empresa de data science y este trabajo trata de desarrollar un sistema de análisis escalable que permita identificar ubicaciones y atributos estrategicos a partir de la información recolectada, con el fin de maximizar la rentabilidad y satisfacción de un cliente que busca poner un restaurante en Estados Unidos (en el estado de Florida), ubicado en una ciudad con la menor contaminación posible en el aire. </h4>
+<h3 align="justify"> DREM Data Insigths, nuestra empresa de Consultoría en data science se especializa en mineria de datos o la sistematización y extraccion de información de los datos proporcionados por nuestros clientes para generar reportes detallados e integrales.
+   
+En este proyecto desarrollamos un sistema de análisis escalable (aplicable en otras ciudades de Estados Unidos) que permita tener información relevante del mercado de restaurants que determina la entrega de valor al cliente, en tres aspectos: la reputación y grado de satisfacción del cliente, el rubro del restaurant y sus atributos estrategicos, y la ubicación de los restaurants teniendo en cuenta el grado de contaminanción del aire. 
+
+Los tres aspectos anteriores con el fin de maximizar la rentabilidad y satisfacción (mediante la entrega de valor) de un cliente que busca poner un restaurante en el estado de Florida de Estados Unidos, especificamente en una ciudad con menor grado de polución. </h4>
 <p>
    <br>
 </p>
