@@ -6,7 +6,7 @@
 <p>
    <br>
 </p>
-*Proyecto desarrollado en Henry por:*
+*Proyecto desarrollado en Henry por: *
 
 <div align="center">
 
